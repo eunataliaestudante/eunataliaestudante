@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @eunataliaestudante
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-eunataliaestudante/eunataliaestudante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Natália
+Estou estudando no alura                                                                                                                                                                      
+ estudo no primeiro ano do ensino médio                                                                                                                                                       
+ Esrou me desenvolvendo na linguagem javascript                                                                                                                     
